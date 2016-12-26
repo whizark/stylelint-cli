@@ -1,0 +1,42 @@
+{
+    "name"        : "stylelint-cli",
+    "version"     : "0.0.0",
+    "description" : "commitizen CLI and the adapters as local dependencies",
+    "keywords"    : [
+        "stylelint",
+        "style",
+        "css",
+        "sass",
+        "scss",
+        "less",
+        "lint",
+        "cli"
+    ],
+    "homepage"    : "https://github.com/whizark/stylelint-cli",
+    "bugs"        : {
+        "url": "https://github.com/whizark/stylelint-cli/issues"
+    },
+    "license"     : "MIT",
+    "author"      : {
+        "name": "Whizark",
+        "url" : "http://whizark.com"
+    },
+    "files"       : [
+        "index.js",
+        "bin",
+        "dist",
+        "lib"
+    ],
+    "main"        : "./index.js",
+    "bin"         : {
+        "stylelint": "./bin/stylelint"
+    },
+    "repository"  : {
+        "type": "git",
+        "url" : "https://github.com/whizark/stylelint-cli.git"
+    },
+    "dependencies": {
+        "chalk"  : "~1.1.3",
+        "resolve": "~1.2.0"
+    }
+}
