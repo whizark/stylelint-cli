@@ -41,8 +41,8 @@ For more detail, see also [the official stylelint documentation][stylelint-io] [
 [stylelint-io]: http://stylelint.io
 [stylelint-github]: https://github.com/stylelint/stylelint
 
-[npm-image]: https://img.shields.io/npm/v/@whizark/stylelint-cli.svg
-[npm-url]: https://www.npmjs.com/@whizark/stylelint-cli
+[npm-image]: https://img.shields.io/npm/v/stylelint-cli.svg
+[npm-url]: https://www.npmjs.com/stylelint-cli
 
 [travis-image]: https://travis-ci.org/whizark/stylelint-cli.svg?branch=master
 [travis-url]: https://travis-ci.org/whizark/stylelint-cli
