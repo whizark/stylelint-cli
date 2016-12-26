@@ -1,7 +1,7 @@
 {
     "name"        : "stylelint-cli",
     "version"     : "0.0.0",
-    "description" : "commitizen CLI and the adapters as local dependencies",
+    "description" : "Global CLI wrapper to execute a local stylelint",
     "keywords"    : [
         "stylelint",
         "style",
