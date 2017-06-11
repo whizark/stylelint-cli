@@ -36,7 +36,7 @@ deploy:
       api_key:
           secure: H1u0hQHkeKA0z88ZyvhnZy/yFSW71RROID6ue6loRaKxxtWWJh6x9vDVy+GiEmBO68euXxL3koExprGLM/T8Rm1d1jXPw2Oc/8lLQevv51dmDuEOrlBEmFg65lttC05ETgY8GokSXuv9pYZDSpBBwHuPyOcG7GF77ZYMmEVGFzUwepILHX4TSkllaPA7+VkO+ubarHt46Tf27F6uy0P+QI9WPuhmQ+e7BrTO4FobgzJ3yv0QhriQCYpcc8W72vemN/9VLLBBeK5uxRSsaFOqG4z/gOriA07qLvsgHbflE/k8QgAwh7EBrZqkYnCzKn8DXnxRKgEffwFJ683KFtS4g/aJOPq95EzzujOhGKhXyYtRxZbdN5Hm37uHYJyZNYCXrauD7w++ILyHuGlO6jpXDJKLDTZz76DNc9RJDPS60gXZyuqnC6toTsSZ2e8lwvdOv1sqrAD8M5mzRZB/vvrV4lCv2BFnZkmwAUzEGB485zdoyekRxA2sC9hhHUD/L9dOvC3Jxpdz8tulFLpbiL7BeUuROcIfJB+rAyQ8KIbRkp00GIFiHRk48HN6sNDePz9gIk9rY1qjIpndtAQiyoUvqFVxhwFx+2m22KQr0IzEHGFHuZCG0LtPSJINQpYcUNNh4UdwC7cRdvA0Zs5FiIceVTT8LIkyzaAWdVpJA0SI7g8=
       on:
-          node: 6
+          node: 8
           repo: whizark/stylelint-cli
           branch: master
           tags: true
