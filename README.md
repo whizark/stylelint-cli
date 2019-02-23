@@ -3,6 +3,8 @@
 [![npm][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
 
+**DEPRECATED:** Use [`npx`][npx] instead.
+
 Global CLI wrapper to execute a local [stylelint][stylelint-io] [:octocat:][stylelint-github].
 
 
