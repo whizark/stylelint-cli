@@ -40,6 +40,8 @@ stylelint style.css
 
 For more detail, see also [the official stylelint documentation][stylelint-io] [:octocat:][stylelint-github].
 
+[npx]: https://blog.npmjs.org/post/162869356040/introducing-npx-an-npm-package-runner
+
 [stylelint-io]: http://stylelint.io
 [stylelint-github]: https://github.com/stylelint/stylelint
 
