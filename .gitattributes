@@ -6,3 +6,4 @@
 package.json export-ignore
 package-lock.json export-ignore
 .travis.yml export-ignore
+renovate.json export-ignore
