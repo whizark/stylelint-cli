@@ -13,15 +13,14 @@ matrix:
 
 cache:
     directories:
-        - node_modules
+        - $HOME/.npm
 
 before_install:
     - npm config set progress false
     - npm install -g npm
 
 install:
-    - npm prune
-    - npm update
+    - npm ci
 
 script:
     - npm install . -g >/dev/null && npm uninstall . -g >/dev/null
