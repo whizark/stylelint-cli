@@ -37,6 +37,6 @@
     },
     "dependencies": {
         "chalk"  : "2.4.2",
-        "resolve": "1.10.1"
+        "resolve": "1.11.0"
     }
 }
