@@ -1,6 +1,6 @@
 {
     "name"        : "stylelint-cli",
-    "version"     : "1.2.0",
+    "version"     : "1.3.0",
     "description" : "Global CLI wrapper to execute a local stylelint",
     "keywords"    : [
         "stylelint",
