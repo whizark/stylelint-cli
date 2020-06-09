@@ -36,7 +36,7 @@
         "url" : "https://github.com/whizark/stylelint-cli.git"
     },
     "dependencies": {
-        "chalk"  : "4.0.0",
+        "chalk"  : "4.1.0",
         "resolve": "1.17.0"
     }
 }
